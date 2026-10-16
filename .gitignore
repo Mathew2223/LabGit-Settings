@@ -20,6 +20,8 @@ appsettings.Local.json
 Thumbs.db
 .DS_Store
 
+# C# WPF Specific
+*.bak
 # Файлы среды разработки
 .vs/
 .vscode/
